@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Khang
+### Hi there 👋 I'm Khang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### My Leetcode Stats 👉👈
+### My Leetcode Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/huukhangtc?ext=activity)
 
