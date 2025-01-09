@@ -8,7 +8,7 @@
 <br>
 <br>
   
-> <i> When you're happy, you enjoy the music, but when you're sad, you understand the lyrics - Frank Ocean </i>
+> <i> Listen with me </i>
   
 </div>
 
