@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Khang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I’m a passionate software developer specializing in modern web technologies. I focus on building clean, efficient, and user-friendly applications, always aiming to deliver value, profitability, and convenience for users.
+I’m a passionate software developer specializing in modern web, web3, blockchain technologies. I focus on building clean, efficient, and user-friendly applications, always aiming to deliver value, profitability, and convenience for users.
 
 <div align = "center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315qzhy6hfr62fyn4pags3weweqq&redirect=true">
