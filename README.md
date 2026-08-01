@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Khang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I’m a passionate software developer specializing in modern web, web3, blockchain technologies. I focus on building clean, efficient, and user-friendly applications, always aiming to deliver value, profitability, and convenience for users.
+I’m a passionate software developer specializing in modern web, web3, blockchain, AI technologies. I focus on building clean, efficient, and user-friendly applications, always aiming to deliver value, profitability, and convenience for users.
 
 
 
